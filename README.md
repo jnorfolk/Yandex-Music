@@ -9,3 +9,6 @@ However, I worked on reinforcing these skills and practicing good formatting and
 This project also started me off with an imperfect dataset that I preprocessed before starting my analysis.
 The project offered up three hypotheses for me to check. I will return and test these hypotheses using sound statistical reasoning now that I am more well-versed in
 these techniques.
+
+## Data Usage
+The data is provided by TripleTen and is proprietary, and therefore may not be published. It is, however, loaded into the notebook.
